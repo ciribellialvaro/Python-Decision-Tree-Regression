@@ -1,0 +1,2 @@
+# Python-Decision-Tree-Regression
+For those who want to help their company's human resources, to set new employee salaries to be hired, and even implement a payroll and salary policy, here's a template with efficient code lines to generate a very interesting result with this model. You only need to pre-process a spreadsheet with two columns, being column 1 (indenpendent variable):  hierarchical Level; and column 2 (dependent variable): Salary.  We will use "Decision Tree Regression" Model
